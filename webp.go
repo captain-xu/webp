@@ -35,7 +35,7 @@ func getFileList(filep string) {
 		return nil
 	})
 	if err == nil {
-		fmt.Println("转换完毕...")
+		fmt.Println("转换完毕")
 	}
 }
 
